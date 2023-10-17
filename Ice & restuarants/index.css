@@ -1,0 +1,12 @@
+h1,h2,h3{
+    color: green;
+}
+a,div{
+    color: red;
+}
+p,form{
+    color: brown;
+}
+body{
+    background-color:aqua;
+}
